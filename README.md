@@ -1,5 +1,5 @@
 # ReconBash
-Bash recon scripts for my personal use and possible helpful others. It's nothing special, just launches specific programs in a specific other.
+Bash recon scripts for my personal use and possible helpful others. It's nothing special, just launches specific programs in a specific order.
 
 Some of these scripts might contain snippets shared by others. I would like to thank everyone who might have contributed this way.
 
